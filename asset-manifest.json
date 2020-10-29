@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd9d7ae9.chunk.css",
+    "main.js": "/static/js/main.a2adf2e7.chunk.js",
+    "main.js.map": "/static/js/main.a2adf2e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07bc46d7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07bc46d7.js.map",
+    "static/js/2.1739554a.chunk.js": "/static/js/2.1739554a.chunk.js",
+    "static/js/2.1739554a.chunk.js.map": "/static/js/2.1739554a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ace5018fb41faa6b473801aac628e1f5.js": "/precache-manifest.ace5018fb41faa6b473801aac628e1f5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bd9d7ae9.chunk.css.map": "/static/css/main.bd9d7ae9.chunk.css.map",
+    "static/js/2.1739554a.chunk.js.LICENSE.txt": "/static/js/2.1739554a.chunk.js.LICENSE.txt",
+    "static/media/Calendar.svg": "/static/media/Calendar.a5f7542d.svg",
+    "static/media/avatar-icon.png": "/static/media/avatar-icon.07a57232.png",
+    "static/media/cog-wheel.svg": "/static/media/cog-wheel.df50409b.svg",
+    "static/media/default-profile.jpg": "/static/media/default-profile.39eb0bbf.jpg",
+    "static/media/four-rectangles.svg": "/static/media/four-rectangles.c5eec02a.svg",
+    "static/media/health.svg": "/static/media/health.14dfd514.svg",
+    "static/media/icon-analytics.svg": "/static/media/icon-analytics.e9c5f666.svg",
+    "static/media/icon-reports.svg": "/static/media/icon-reports.d4669d47.svg",
+    "static/media/menu-icon.svg": "/static/media/menu-icon.c089646c.svg",
+    "static/media/spinner.gif": "/static/media/spinner.0d0345f6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07bc46d7.js",
+    "static/js/2.1739554a.chunk.js",
+    "static/css/main.bd9d7ae9.chunk.css",
+    "static/js/main.a2adf2e7.chunk.js"
+  ]
+}
